@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<ArrayOfBindRule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <BindRule PlanetOne="Therka" PlanetTwo="Munteen" Distance="3" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Septerfon" Distance="1" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Solum" Distance="6" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Vulpto" Distance="6" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Epsilo" Distance="5" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Berlyn" Distance="6" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Nasharil" Distance="7" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Elopor" Distance="5" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Vena V" Distance="9" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Alturnik" Distance="10" />
+  <BindRule PlanetOne="Therka" PlanetTwo="Andooweem" Distance="8" />
+  
+  <BindRule PlanetOne="Munteen" PlanetTwo="Septerfon" Distance="2" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Solum" Distance="3" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Vulpto" Distance="3" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Epsilo" Distance="2" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Berlyn" Distance="3" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Nasharil" Distance="4" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Elopor" Distance="2" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Vena V" Distance="6" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Alturnik" Distance="7" />
+  <BindRule PlanetOne="Munteen" PlanetTwo="Andooweem" Distance="5" />
+  
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Solum" Distance="5" />
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Vulpto" Distance="5" />
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Epsilo" Distance="4" />
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Berlyn" Distance="5" />
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Nasharil" Distance="5" />
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Elopor" Distance="4" />
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Vena V" Distance="8" />
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Alturnik" Distance="9" />
+  <BindRule PlanetOne="Septerfon" PlanetTwo="Andooweem" Distance="7" />
+  
+  <BindRule PlanetOne="Solum" PlanetTwo="Vulpto" Distance="3" />
+  <BindRule PlanetOne="Solum" PlanetTwo="Epsilo" Distance="1" />
+  <BindRule PlanetOne="Solum" PlanetTwo="Berlyn" Distance="6" />
+  <BindRule PlanetOne="Solum" PlanetTwo="Nasharil" Distance="6" />
+  <BindRule PlanetOne="Solum" PlanetTwo="Elopor" Distance="5" />
+  <BindRule PlanetOne="Solum" PlanetTwo="Vena V" Distance="6" />
+  <BindRule PlanetOne="Solum" PlanetTwo="Alturnik" Distance="7" />
+  <BindRule PlanetOne="Solum" PlanetTwo="Andooweem" Distance="5" />
+  
+  <BindRule PlanetOne="Vulpto" PlanetTwo="Epsilo" Distance="2" />
+  <BindRule PlanetOne="Vulpto" PlanetTwo="Berlyn" Distance="6" />
+  <BindRule PlanetOne="Vulpto" PlanetTwo="Nasharil" Distance="3" />
+  <BindRule PlanetOne="Vulpto" PlanetTwo="Elopor" Distance="5" />
+  <BindRule PlanetOne="Vulpto" PlanetTwo="Vena V" Distance="3" />
+  <BindRule PlanetOne="Vulpto" PlanetTwo="Alturnik" Distance="4" />
+  <BindRule PlanetOne="Vulpto" PlanetTwo="Andooweem" Distance="2" />
+  
+  <BindRule PlanetOne="Epsilo" PlanetTwo="Berlyn" Distance="5" />
+  <BindRule PlanetOne="Epsilo" PlanetTwo="Nasharil" Distance="5" />
+  <BindRule PlanetOne="Epsilo" PlanetTwo="Elopor" Distance="4" />
+  <BindRule PlanetOne="Epsilo" PlanetTwo="Vena V" Distance="5" />
+  <BindRule PlanetOne="Epsilo" PlanetTwo="Alturnik" Distance="6" />
+  <BindRule PlanetOne="Epsilo" PlanetTwo="Andooweem" Distance="4" />
+  
+  <BindRule PlanetOne="Berlyn" PlanetTwo="Nasharil" Distance="3" />
+  <BindRule PlanetOne="Berlyn" PlanetTwo="Elopor" Distance="1" />
+  <BindRule PlanetOne="Berlyn" PlanetTwo="Vena V" Distance="9" />
+  <BindRule PlanetOne="Berlyn" PlanetTwo="Alturnik" Distance="6" />
+  <BindRule PlanetOne="Berlyn" PlanetTwo="Andooweem" Distance="8" />
+  
+  <BindRule PlanetOne="Nasharil" PlanetTwo="Elopor" Distance="2" />
+  <BindRule PlanetOne="Nasharil" PlanetTwo="Vena V" Distance="6" />
+  <BindRule PlanetOne="Nasharil" PlanetTwo="Alturnik" Distance="3" />
+  <BindRule PlanetOne="Nasharil" PlanetTwo="Andooweem" Distance="5" />
+  
+  <BindRule PlanetOne="Elopor" PlanetTwo="Vena V" Distance="8" />
+  <BindRule PlanetOne="Elopor" PlanetTwo="Alturnik" Distance="5" />
+  <BindRule PlanetOne="Elopor" PlanetTwo="Andooweem" Distance="7" />
+  
+  <BindRule PlanetOne="Vena V" PlanetTwo="Alturnik" Distance="3" />
+  <BindRule PlanetOne="Vena V" PlanetTwo="Andooweem" Distance="1" />
+  
+  <BindRule PlanetOne="Alturnik" PlanetTwo="Andooweem" Distance="2" />
+  
+</ArrayOfBindRule>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundlessUniverse", "BoundlessUniverse\BoundlessUniverse.csproj", "{DBCC1F9B-4870-4622-A0DD-DF9F8F2DE868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCC1F9B-4870-4622-A0DD-DF9F8F2DE868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCC1F9B-4870-4622-A0DD-DF9F8F2DE868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCC1F9B-4870-4622-A0DD-DF9F8F2DE868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCC1F9B-4870-4622-A0DD-DF9F8F2DE868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4185B85-595B-45BA-943B-D5F772EDCB87}
+	EndGlobalSection
+EndGlobal
